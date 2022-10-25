@@ -1,0 +1,15 @@
+SMAP
+piechart_jsp.java
+JSP
+*S JSP
+*F
++ 0 piechart.jsp
+piechart.jsp
+*L
+1,5:47
+9,2:51
+12,13:54
+24,25:67
+49:92,3
+50,15:95
+*E
